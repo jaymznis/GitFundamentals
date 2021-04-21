@@ -19,6 +19,6 @@ Once inside a git repository, you can start using commands such as
 
 - [Git Init Documentation](https://git-scm.com/docs/git-init)
 
-   
+---
 
-   [Back to home](../README.me)
+[Back to home](../README.me)
