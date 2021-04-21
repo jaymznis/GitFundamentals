@@ -19,7 +19,7 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git status](./Command/Status.md)
 
-- [git clond](./Command/Clone.md)
+- [git clone](./Command/Clone.md)
 
 ## External Resources
 
